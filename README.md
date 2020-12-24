@@ -4,12 +4,12 @@ This project is a Airbnb Clone built it using ReactJS, Material UI & Firebase
 
 ## 📝 What I have done in this project
 
-- Started by [`create-react-app`](https://github.com/facebook/create-react-app) 💻
-- Created different `./components` for different functionalities 👾
-- Used [`react-router-dom`](https://www.npmjs.com/package/react-router-dom) to navigate among various `./components` 🗄
-- Created a date picker using [`react-date-range`](https://www.npmjs.com/package/react-date-range) npm package 🗓
-- Build clean UI/UX using [`material-ui`](https://material-ui.com/) 💅🏻
-- Deployed it using `firebase hosting` 🌐
+- Started by [`create-react-app`](https://github.com/facebook/create-react-app)
+- Created different `./components` for different functionalities
+- Used [`react-router-dom`](https://www.npmjs.com/package/react-router-dom) to navigate among various `./components`
+- Created a date picker using [`react-date-range`](https://www.npmjs.com/package/react-date-range) npm package
+- Build clean UI/UX using [`material-ui`](https://material-ui.com/)
+- Deployed it using `firebase hosting`
 
 ## 🤷🏻‍♀️ Why I build this app?
 
